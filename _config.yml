@@ -12,11 +12,11 @@ baseurl: "/"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 # SNS settings
 RSS: false
-#weibo_username:     huxpro
-#zhihu_username:     huxpro
+weibo_username:     #huxpro
+zhihu_username:    # huxpro
 github_username:    upcwxd
-#twitter_username:  huxpro
-#facebook_username:  huxpro
+twitter_username:  #huxpro
+facebook_username:  #huxpro
 
 
 
@@ -84,17 +84,9 @@ friends: [
     {
         title: "Hux Blog",
         href: "http://huangxuan.me"
-    },{
+    },
+    {
         title: "Cyz",
         href: "http://blog.chenyuzhao.xyz/"
-    },{
-        title: "Bar",
-        href: "#"
-    },{
-        title: "Example Friends",
-        href: "#"
-    },{
-        title: "It helps SEO",
-        href: "#"
     }
-]
+    ]
