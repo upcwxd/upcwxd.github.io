@@ -6,7 +6,7 @@ email: UPCWXD@163.com
 description: "无线电协会的一些经验博客"
 keyword: ""
 #url: "http://huangxuan.me"              # your host, for absolute URL
-baseurl: "/upcwxd"         # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "/"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
